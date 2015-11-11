@@ -158,5 +158,5 @@ HCURSOR CMFChelloDlg::OnQueryDragIcon()
 void CMFChelloDlg::OnBnClickedHello()
 {
 	// TODO: 在此添加控件通知处理程序代码
-	MessageBox(L"初始状态hello");
+	MessageBox(L"初始状态hello第一次");
 }
